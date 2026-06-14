@@ -89,13 +89,12 @@ const adarsh = {
 
 <!-- Replace GITHUB_USERNAME with your GitHub username in ALL stat card URLs below -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+![](https://github-readme-stats.shion.dev/api?username=AdarshSharma22&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)
+<br></br>
+![](https://streak-stats.demolab.com/?user=AdarshSharma22&theme=one_dark_pro&hide_border=false)
 
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdarshSharma22&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
