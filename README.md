@@ -22,7 +22,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adarshsharma22&style=flat-square&color=4F8EF7&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/GITHUB_USERNAME?style=flat-square&color=4F8EF7&label=Followers)](https://github.com/Adarshsharma22)
+[![GitHub followers](https://img.shields.io/github/followers/Adarshsharma22?style=flat-square&color=4F8EF7&label=Followers)](https://github.com/Adarshsharma22)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/LINKEDIN_URL](https://www.linkedin.com/in/adarsh-sharma-03974430a))
 &nbsp;
@@ -114,7 +114,7 @@ If you like what you see, let's talk!
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EMAIL__ADDRESS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshsharma6222@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshsharma22)
+[![GitHub](https://img.shields.io/badge/GitHub-Adarshsharma22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshsharma22)
 
 <br/><br/>
 
