@@ -24,9 +24,9 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/GITHUB_USERNAME?style=flat-square&color=4F8EF7&label=Followers)](https://github.com/GITHUB_USERNAME)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/LINKEDIN_URL](https://www.linkedin.com/in/adarsh-sharma-03974430a))
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshsharma6222@gmail.com)
 
 <br/>
 
@@ -110,9 +110,9 @@ If you like what you see, let's talk!
 <br/>
 
 <!-- Replace LINKEDIN_URL and EMAIL_ADDRESS below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/LINKEDIN_URL](https://www.linkedin.com/in/adarsh-sharma-03974430a))
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EMAIL__ADDRESS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-EMAIL__ADDRESS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshsharma6222@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITHUB_USERNAME)
 
