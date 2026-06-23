@@ -112,7 +112,7 @@ If you like what you see, let's talk!
 <!-- Replace LINKEDIN_URL and EMAIL_ADDRESS below -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/LINKEDIN_URL](https://www.linkedin.com/in/adarsh-sharma-03974430a))
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EMAIL__ADDRESS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshsharma6222@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adarshsharma6222@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshsharma6222@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Adarshsharma22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshsharma22)
 
